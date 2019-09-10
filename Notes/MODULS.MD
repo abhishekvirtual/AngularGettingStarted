@@ -1,3 +1,9 @@
+# What is angular
+
+Angular is modular , it is collection of libarary each libaray is a module made up with various relared featured modules when we need some thing with angular we import it from related module
+
+https: //www.npmjs.com/~angular this link has the all angular libabry packages and modules.
+
 # Modules
 
 In javaScript moduls are the way to manage code and prevent the to declary the functions and varibale in glabal name space. This approch in javaScript is known as the modular pattern which is a prt of creational design pattren
@@ -55,3 +61,15 @@ NG Promotes boundry in our application
 ## Feature Modules.
 
 ## Shared Modules.
+
+# Angular Component
+
+Angular Component = Template (HTML , Data Bindings) + Class(Mathods and properties) + metadata (Decorators);
+
+# Angular Decorators
+
+are the function which adds matadata to the class, it's members, or its method arguments
+
+prifixed with an @
+
+Angular provieds a build in @Component()
