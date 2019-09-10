@@ -34,18 +34,21 @@ Angular module are have much more then a simple Js module it raps the applicatio
 
 ## diffrence in ES2016 and Angular Module
 
-ES Module                                                               Angular Module
+ES module are the code file which is import and export somthing
 
+NG modules Code files that organize the application in cohesive blocks block of functinality.
 
-ES module are the code file which is                                    code files that organize the application in cohesive blocks
-import and export somthing                                              block of functinality.  
+ES moudule organize the code files
 
-ES moudule organize the code files                                      Angular module organize the application
+NG module organize the application
 
-ES module modularize our code                                           ES module modularize our application
+ES module modularize our code
 
-Promots code reuse                                                      Promotes boundry in our application
+NG module modularize our application
 
+ES Promots code reuse
+
+NG Promotes boundry in our application
 
 ## Main Module (App module).
 
