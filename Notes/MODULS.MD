@@ -4,6 +4,7 @@ In javaScript moduls are the way to manage code and prevent the to declary the f
 
 ### Example
 
+```
 var taskRepo = function(){
 var db = {};
 var get = function(id){
@@ -21,6 +22,7 @@ get:get,
 save:save
 }
 }
+```
 
 module.exports = taskRepo();
 
